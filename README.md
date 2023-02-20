@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I'm currently learning basic web programming
 <!--
 **Aldobbzz/Aldobbzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
