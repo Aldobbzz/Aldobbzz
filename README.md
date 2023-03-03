@@ -1,6 +1,6 @@
 # Hi, I'm Naufal Aldo Bara Zaidan 👋
 
-🌱 I'm currently learning basic web programming
+🌱 I'm currently learning web based programming.
 
 ## 🛠 Tech. Stacks & Tools
 
